@@ -11,6 +11,7 @@ body {
     align-items: center;
     height: 100vh;
     overflow: hidden; /* Evita el scroll */
+    font-family: "Nunito Sans", sans-serif;
 }
 
 /* Contenedor de la carta */
