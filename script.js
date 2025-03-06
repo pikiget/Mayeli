@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
             ease: "power2.inOut",
             onComplete: () => {
                 if (!flipped) {
-                    card.innerHTML = "Siempre enfrentas la vida con alegría y sigues avanzando, incluso cuando el camino se vuelve difícil. Eres una persona admirable, con una gran fortaleza y un corazón enorme. Me alegra que formes parte de la familia, y que podamos compartir momentos juntos. De verdad, te admiro y te aprecio mucho. 💜✨";
+                    card.innerHTML = "Mayeli, siempre enfrentas la vida con alegría y sigues avanzando, incluso cuando el camino se vuelve difícil. Eres una persona admirable, con una gran fortaleza y un corazón enorme. Me alegra que formes parte de la familia y que podamos compartir momentos juntos. De verdad, te admiro y te aprecio mucho. 💜✨";
                     card.classList.remove("welcome");
                     card.classList.add("final-message");
                     button.textContent = "Volver";
